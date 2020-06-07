@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="General ASU">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/CSE 240/Assignments/Assignment 2/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="General ASU (4a2785ed-d2a6-4c90-ab50-38255b190be9)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.tdYng00e0E" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-general-asu" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-brew-gcc" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-relwithdebinfo-general-asu" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
